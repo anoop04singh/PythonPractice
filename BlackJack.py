@@ -1,4 +1,5 @@
-#BlackJack Game
+#This is a WAR GAME based on which my upcoming BlackJack will be Based.
+#WAR Game
 
 import random
 #First we create all the cards.
