@@ -1,4 +1,4 @@
-#BlackJack Games
+#BlackJack Game
 
 import random
 #First we create all the cards.
